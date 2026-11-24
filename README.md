@@ -60,7 +60,7 @@ Running the logo test ROM [`1-chip8-logo.ch8`](https://github.com/Timendus/chip8
 
 **Startup:**
 - zero-initializes the machine,
-- loads the built-in hex font into memory at `0x050`,
+- loads the built-in hex font into memory at `0x050`
 - loads a ROM from disk into memory at `0x200`.
 
 **Instructions (6 of 34):**
